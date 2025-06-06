@@ -1,8 +1,6 @@
 # Analyze-a-Phishing-Email-Sample.
 Creating a Phishing Email
 
-Absolutely! Here's a **human-readable, clean, and professional format** that you can easily copy and paste into a **GitHub README file**. It includes the analysis of a sample phishing email using the steps you provided.
-
 ---
 
 # 🛡️ Phishing Email Analysis Report
